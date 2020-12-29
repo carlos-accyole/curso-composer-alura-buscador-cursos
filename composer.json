@@ -15,7 +15,7 @@
     },
     "autoload" : {
         "files": [
-            "functions.php"
+            "./functions.php"
         ],
         "psr-4" : {
             "Alura\\BuscadorDeCursos\\": "src/"
